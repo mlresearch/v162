@@ -49,6 +49,8 @@ issued:
   - 6
   - 28
 pdf: https://proceedings.mlr.press/v162/rodri-guez-santana22a/rodri-guez-santana22a.pdf
-extras: []
+extras:
+- label: Other Files
+  link: https://media.icml.cc/Conferences/ICML2022/other_files/rodriguezsantana22a-supp.zip
 # Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
