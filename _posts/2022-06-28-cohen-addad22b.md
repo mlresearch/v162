@@ -53,6 +53,6 @@ issued:
 pdf: https://proceedings.mlr.press/v162/cohen-addad22b/cohen-addad22b.pdf
 extras:
 - label: Other Files
-  link: https://media.icml.cc/Conferences/ICML2022/other_files/cohenaddad22b-supp.zip
+  link: https://media.icml.cc/Conferences/ICML2022/supplementary/cohenaddad22b-supp.zip
 # Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---

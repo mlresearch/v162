@@ -59,6 +59,6 @@ issued:
 pdf: https://proceedings.mlr.press/v162/chernozhukov22a/chernozhukov22a.pdf
 extras:
 - label: Other Files
-  link: https://media.icml.cc/Conferences/ICML2022/other_files/chernozhukov22a-supp.zip
+  link: https://media.icml.cc/Conferences/ICML2022/supplementary/chernozhukov22a-supp.zip
 # Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---

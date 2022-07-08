@@ -44,6 +44,6 @@ issued:
 pdf: https://proceedings.mlr.press/v162/budhathoki22a/budhathoki22a.pdf
 extras:
 - label: Other Files
-  link: https://media.icml.cc/Conferences/ICML2022/other_files/budhathoki22a-supp.zip
+  link: https://media.icml.cc/Conferences/ICML2022/supplementary/budhathoki22a-supp.zip
 # Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
