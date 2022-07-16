@@ -1,5 +1,5 @@
 ---
-title: Understanding Dataset Difficulty with $\mathcalV$-Usable Information
+title: Understanding Dataset Difficulty with $\mathcal{V}$-Usable Information
 booktitle: Proceedings of the 39th International Conference on Machine Learning
 abstract: 'Estimating the difficulty of a dataset typically involves comparing state-of-the-art
   models to humans; the bigger the performance gap, the harder the dataset is said
